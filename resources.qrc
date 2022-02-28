@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="WaveWriterGUI">
+    <file alias="windowbar256">resources/amy_icon_256x256.bmp</file>
+    <file alias="windowbar">resources/amy_icon_32x32.bmp</file>
+  </qresource>
+</RCC>
